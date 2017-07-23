@@ -1,0 +1,1398 @@
+/******************** Responsive CSS ********************/
+
+
+/***** 3840px x 2160px *****/
+@media screen and (min-width: 2160px) and (max-width: 3840px) {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 250px;
+        margin-top: 3%;
+        letter-spacing: 20px;
+    }
+    p.line1 {
+        font-size: 100px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 3%;
+    }
+    .content p {
+        font-size: 130px;
+        margin-top: 2%;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 15%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 50px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 50px;
+    }
+    .wrapper .belowbanner .email{
+        margin-top: -45px;
+        border-bottom: none;
+        border-top: none;
+    }
+    .wrapper .belowbanner .email a{
+        font-size: 48px;
+        margin-left: -20px;
+        letter-spacing: 2px;
+    }
+    .social {
+        border-left: 10px solid #a7e09f;
+        border-bottom: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 100px;
+        padding: 0px 40px;
+    }
+    .address {
+        border-bottom: none;
+        border-left:  10px solid #a7e09f;
+        border-top: none;
+        border-right:  10px solid #a7e09f;
+    }
+    .email{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+    .call{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+}
+
+
+/***** 2560px x 1440px *****/
+@media screen and (min-width: 1440px) and (max-width: 2560px){
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 150px;
+        margin-top: 3%;
+        letter-spacing: 10px;
+    }
+    p.line1 {
+        font-size: 60px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 3%;
+    }
+    .content p {
+        font-size: 90px;
+        margin-top: 2%;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 10%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 34px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 34px;
+    }
+    .wrapper .belowbanner .email{
+        margin-top: -45px;
+        border-bottom: none;
+        border-top: none;
+    }
+    .wrapper .belowbanner .email a{
+        font-size: 32px;
+        margin-left: -20px;
+        letter-spacing: 2px;
+    }
+    .social {
+        border-left: 10px solid #a7e09f;
+        border-bottom: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 60px;
+        padding: 0px 40px;
+    }
+    .address {
+        border-bottom: none;
+        border-left:  10px solid #a7e09f;
+        border-top: none;
+        border-right:  10px solid #a7e09f;
+    }
+    .email{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+    .call{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+}
+
+
+/***** 1920px x 1080px *****/
+@mediascreen and (min-width: 1080px) and (max-width: 1920px){
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 110px;
+        margin-top: 3%;
+        letter-spacing: 5px;
+    }
+    p.line1 {
+        font-size: 40px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 3%;
+    }
+    .content p {
+        font-size: 70px;
+        margin-top: 5%;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 7%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 24px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 22px;
+    }
+    .wrapper .belowbanner .email{
+        margin-top: -45px;
+        border-bottom: none;
+        border-top: none;
+    }
+    .wrapper .belowbanner .email a{
+        font-size: 22px;
+        margin-left: -20px;
+        letter-spacing: 2px;
+    }
+    .social {
+        border-left: 5px solid #a7e09f;
+        border-bottom: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 40px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-bottom: none;
+        border-left:  5px solid #a7e09f;
+        border-top: none;
+        border-right:  5px solid #a7e09f;
+    }
+    .email{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+    .call{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+}
+
+
+/***** 1600px x 900px *****/
+@media screen and (min-width: 900px) and (max-width: 1600px){
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 100px;
+        margin-top: 3%;
+        letter-spacing: 5px;
+    }
+    p.line1 {
+        font-size: 40px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 1%;
+    }
+    .content p {
+        font-size: 75px;
+        margin-top: 3%;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 10%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 24px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 24px;
+    }
+    .wrapper .belowbanner .email{
+        margin-top: -45px;
+        border-bottom: none;
+        border-top: none;
+    }
+    .wrapper .belowbanner .email a{
+        font-size: 22px;
+        margin-left: -20px;
+    }
+    .social {
+        border-left: 5px solid #a7e09f;
+        border-bottom: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 30px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-bottom: none;
+        border-left:  5px solid #a7e09f;
+        border-top: none;
+        border-right:  5px solid #a7e09f;
+    }
+    .email{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+    .call{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+}
+
+
+/***** 1360px x 768px - LANDSCAPE *****/
+@media screen and (min-width: 768px) and (max-width: 1360px) and (orientation: landscape){
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 100px;
+        margin-top: 2%;
+        letter-spacing: 5px;
+    }
+    p.line1 {
+        font-size: 40px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 3%;
+    }
+    .content p {
+        font-size: 60px;
+        margin-top: 2%;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 10%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 20px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 16px;
+    }
+    .wrapper .belowbanner .email{
+        margin-top: -45px;
+        border-bottom: none;
+        border-top: none;
+    }
+    .wrapper .belowbanner .email a{
+        font-size: 15px;
+        margin-left: -20px;
+    }
+    .social {
+        border-left: 5px solid #a7e09f;
+        border-bottom: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 30px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-bottom: none;
+        border-left:  5px solid #a7e09f;
+        border-top: none;
+        border-right:  5px solid #a7e09f;
+    }
+    .email{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+
+    .call{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+}
+
+/***** 1280px x 720px - LANDSCAPE *****/
+@media screen and (min-width: 720px) and (max-width: 1280px) and (orientation: landscape){
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 80px;
+        margin-top: 3%;
+        letter-spacing: 5px;
+    }
+    p.line1 {
+        font-size: 40px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 1%;
+    }
+    .content p {
+        font-size: 60px;
+        margin-top: 1%;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 10%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 22px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 20px;
+    }
+    .wrapper .belowbanner .email{
+        margin-top: -45px;
+        border-bottom: none;
+        border-top: none;
+    }
+    .wrapper .belowbanner .email a{
+        font-size: 18px;
+        margin-left: -20px;
+    }
+    .email{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+    .social {
+        border-left: 5px solid #a7e09f;
+        border-bottom: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 30px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-bottom: none;
+        border-left:  5px solid #a7e09f;
+        border-top: none;
+        border-right:  5px solid #a7e09f;
+    }
+    .call{
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+        border-left: none;
+    }
+}
+
+
+/***** 1024px x768px - LANDSCAPE *****/
+@media screen and (min-width: 768px)and (max-width: 1024px) and (orientation: landscape) {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 90px;
+        margin-top: 5%;
+        letter-spacing: 1.5px;
+    }
+    p.line1 {
+        font-size: 30px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 3%;
+    }
+    .content p {
+        font-size: 50px;
+        margin-top: -2%;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 20%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 20px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 18px;
+        text-shadow: 2px 2px #7C7C7C;
+    }
+    .wrapper .belowbanner .email{
+        margin-top: -45px;
+        border-bottom: none;
+        border-top: none;
+    }
+    .wrapper .belowbanner .email a{
+        font-size: 15px;
+        margin-left: -25px;
+    }
+    .email{
+        border-bottom: none;
+        border-top: none;
+        border-right: none;
+        border-left: none;
+    }
+    .social {
+        border-left: 5px solid #a7e09f;
+        border-bottom: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 30px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-bottom: none;
+        border-left:  5px solid #a7e09f;
+        border-top: none;
+        border-right:  5px solid #a7e09f;
+    }
+    .call{
+        border-bottom: none;
+        border-top: none;
+        border-right: none;
+        border-left: none;
+    }
+}
+
+
+/***** 960px x 540px - LANDSCAPE *****/
+@media screen and (min-width: 540px)and (max-width: 960px) and (orientation: landscape) {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 50px;
+        margin-top: 3%;
+        letter-spacing: 1.5px;
+    }
+    p.line1 {
+        font-size: 10px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 3%;
+    }
+    .content p {
+        font-size: 14px;
+        margin-top: -2%;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 3%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 14px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 14px;
+        text-shadow: 2px 2px #7C7C7C;
+    }
+    .wrapper .belowbanner .email{
+        margin-top: -45px;
+        border-bottom: none;
+        border-top: none;
+    }
+    .wrapper .belowbanner .email a{
+        font-size: 14px;
+        margin-left: -25px;
+    }
+    .social {
+        border-bottom: 2px solid #a7e09f;
+        border-left: none;
+        border-top: 2px solid #a7e09f;
+        border-right: none;
+    }
+    .social a {
+        font-size: 20px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-left: none;
+        border-right: none;
+        border-bottom:  2px solid #a7e09f;
+    }
+}
+
+/***** 800px x 1024px *****/
+@media screen and (min-width: 800px) and (max-width: 1024px) and (orientation: portrait) {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 80px;
+        margin-top: 15%;
+        letter-spacing: 1.5px;
+    }
+    p.line1 {
+        font-size: 30px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 3%;
+    }
+    .content p {
+        font-size: 50px;
+        margin-top: 8%;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 1%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 20px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 20px;
+        text-shadow: 2px 2px #7C7C7C;
+    }
+    .email {
+        border-bottom: 5px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+        letter-spacing: 1.5px;
+    }
+    .social {
+        border-bottom: 5px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 30px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-bottom: 5px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .call {
+        height: 10%;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+}
+
+
+/***** 768px x 1024px - PORTRAIT *****/
+@media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 75px;
+        margin-top: 10%;
+        letter-spacing: 1.5px;
+    }
+    p.line1 {
+        font-size: 25px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 5%;
+    }
+    .content p {
+        font-size: 50px;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 20%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 18px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 18px;
+        text-shadow: 2px 2px #7C7C7C;
+    }
+    .email {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+        letter-spacing: 1.5px;
+    }
+    .social {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 30px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .call {
+        height: 10%;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+}
+
+
+/***** 720px x 1280px - PORTRAIT *****/
+@media screen and (min-width: 720px) and (max-width: 1280px) and (orientation: portrait) {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 90px;
+        margin-top: 15%;
+        letter-spacing: 1.5px;
+    }
+    p.line1 {
+        font-size: 40px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 15%;
+    }
+    .content p {
+        font-size: 65px;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 25%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 20px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 20px;
+        text-shadow: 2px 2px #7C7C7C;
+    }
+    .email {
+        border-bottom: 5px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+        letter-spacing: 1.5px;
+    }
+    .social {
+        border-bottom: 5px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 30px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-bottom: 5px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .call {
+        height: 10%;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+}
+
+
+/***** 600px x 800px - PORTRAIT *****/
+
+@media screen and (min-width: 600px) and (max-width: 800px) and (orientation: portrait) {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 60px;
+        margin-top: 15%;
+        letter-spacing: 1px;
+    }
+    p.line1 {
+        font-size: 25px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 5%;
+    }
+    .content p {
+        font-size: 45px;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: -5%;
+    }
+    .wrapper .belowbanner div {
+        margin-bottom: 0px;
+    }
+    .belowbanner {
+
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 14px;
+        text-shadow: 2px 2px #7C7C7C;
+    }
+    .email {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+        letter-spacing: 1.5px;
+    }
+    .social {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 30px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .call {
+        height: 10%;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+}
+
+/***** 540px x 960px - PORTRAIT *****/
+
+@media screen and (min-width: 540px) and (max-width: 960px) and (orientation: portrait) {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 60px;
+        margin-top: 15%;
+        letter-spacing: 1px;
+    }
+    p.line1 {
+        font-size: 20px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 20%;
+    }
+    .content p {
+        font-size: 40px;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: 15%;
+    }
+    .wrapper .belowbanner div {
+        margin-bottom: 0px;
+    }
+    .belowbanner {
+
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 16px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 14px;
+        text-shadow: 2px 2px #7C7C7C;
+    }
+    .email {
+        border-bottom: 2px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+        letter-spacing: 1.5px;
+    }
+    .social a {
+        font-size: 30px;
+        padding: 0px 15px;
+    }
+    .address {
+        border-bottom: 2px solid #a7e09f;
+        border-left: none;
+        border-top: 2px solid #a7e09f;
+        border-right: none;
+    }
+    .call {
+        height: 10%;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+}
+
+
+/***** 480px x 320px - LANDSCAPE *****/
+@media screen and (min-width: 320px) and (max-width: 480px) and (orientation: landscape) {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 25px;
+        margin-top: -3%;
+        letter-spacing: 1px;
+    }
+    p.line1 {
+        font-size: 8px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 1%;
+    }
+    .content p {
+        font-size: 16px;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: -12%;
+    }
+    .wrapper .belowbanner div {
+        margin-bottom: 0px;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 6px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 6px;
+        text-shadow: 2px 2px #7C7C7C;
+    }
+    .email {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+        letter-spacing: 1px;
+    }
+    .social {
+        border-bottom: none;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 8px;
+    }
+    .address {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: 1px solid #a7e09f;
+        border-right: none;
+    }
+    .call {
+        border-left: none;
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+    }
+}
+
+
+/***** 320px x 480px - PORTRAIT *****/
+
+@media screen and (min-width: 320px) and (max-width: 480px) and (orientation: portrait)  {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 30px;
+        margin-top: 2%;
+        letter-spacing: 1px;
+    }
+    p.line1 {
+        font-size: 15px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 6%;
+    }
+    .content p {
+        font-size: 28px;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: -12%;
+    }
+    .wrapper .belowbanner div {
+        margin-bottom: 0px;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 10px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 10px;
+        text-shadow: 2px 2px #7C7C7C;
+    }
+    .email {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+        letter-spacing: 1px;
+    }
+    .social {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .social a {
+        font-size: 20px;
+        padding: 0px 20px;
+    }
+    .address {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .call {
+        height: 10%;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+}
+
+/***** 240px x 320px - PORTRAIT *****/
+
+@media screen and(max-width: 240px) and (orientation: portrait) {
+    html,
+    body {
+        height: 100%;
+    }
+    body {
+        max-width: 100%;
+    }
+    #logo {
+        font-size: 20px;
+        margin-top: 1%;
+        letter-spacing: 1px;
+    }
+    p.line1 {
+        font-size: 7px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 4px;
+    }
+    .content {
+        width: 100%;
+        margin-top: 3%;
+    }
+    .content p {
+        font-size: 16px;
+    }
+    .wrapper .belowbanner {
+        width: 100%;
+        margin-top: -20%;
+    }
+    .email,
+    .social,
+    .address,
+    .call {
+        width: 100%;
+    }
+    .email h3,
+    .social h3,
+    .address h3,
+    .call h3 {
+        font-size: 8px;
+        margin: 0px;
+    }
+    .email a,
+    .address p,
+    .call p {
+        font-size: 8px;
+        text-shadow: 2px 2px #7C7C7C;
+        margin: 2px;
+    }
+    .email a {
+        font-size: 8px;
+        text-shadow: 2px 2px #7C7C7C;
+        margin: 0px;
+    }
+    .email {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+        letter-spacing: 1px;
+        position: relative;
+        width: 100%;
+        height: 90px;
+    }
+    .social {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+        margin: 0px;
+        height: 35px;
+    }
+    .social a {
+        font-size: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    .address {
+        border-bottom: 1px solid #a7e09f;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+    .call {
+        height: 10%;
+        border-left: none;
+        border-top: none;
+        border-right: none;
+    }
+}
+
+
